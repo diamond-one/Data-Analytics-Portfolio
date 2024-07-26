@@ -20,33 +20,24 @@ I'm proficient in Python, Numpy, Matplotlib, Pandas, Excel, Power BI, Cognos, Lo
 
 # Professional Experience
 
+# Professional Experience
+
 ### Senior Producer at CI Games, Europe (Remote)
 **August 2022 - Present**
 
-- Sole Producer for Design, Code, and Animation Departments during project inception, orchestrating cross-disciplinary collaboration and guiding initial project stages.
-- Actively involved in project visioning and milestone scoping, shaping project direction, and defining key deliverables.
 - Developed Jupyter Notebook visualizations to enhance Jira functionality, providing advanced data insights and project-tracking capabilities.
 - Led Hybrid Agile workflow integration, enhancing cross-functional team efficiency.
-- Developed and introduced a Slackbot for asynchronous stand-ups, automating scheduling and improving remote team communication.
+- Developed a Jira ingestion system, aiding producers by reducing ingestion times by 70%.
 - Streamlined production pipeline for precise preproduction scope review.
-- Standardized terminology for features, milestones, and epics, simplifying task tracking.
-- Initiated a studio-wide RACI ownership model, including leadership.
+- Developed and introduced a Slackbot for asynchronous stand-ups, automating scheduling and improving remote team communication.
 
 ### Operations Producer at Snowball Animation and Visual Effects Studios
 **Israel - Czech Republic - Toronto (Hybrid), 2019 - 2022**
 
-- Planned, managed, scheduled, and budgeted effective scaling from 50 to 250 employees.
 - Defined KPIs for a struggling project, successfully guiding it to budget balance.
-- Created a network of EU studios for partnership, negotiating financial deals.
-- Developed a cross-studio issue system, speeding up turnaround time by 75%.
-- Transformed studio operations with live visual dashboards for all departments.
-
-### Animation Producer & Director at Snowball Animation and Visual Effects Studios
-**Israel - Czech Republic - Toronto (Hybrid), 2017 - 2019**
-
-- Led cultural change initiatives, improving global performance and understanding of studio issues.
-- Developed coaching programs for rapid department growth in animation.
-- Worked with developers to create animation tools that increased productivity by 15%.
+- Transformed studio operations with live visual dashboards for all departments in multiple countries, enhancing project transparency and decision-making.
+- Developed a cross-studio issue tracking and analysis system, speeding up turnaround time by 75%.
+- Established quota data collection of artist outputs, resulting in more accurate forecasts.
 
 ### Additional Experience
 - **Animation Producer / Animation Director at ASB – Animatic & Cinematic Studio, Bangkok Thailand (2013-2016)**
