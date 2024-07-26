@@ -1,7 +1,7 @@
 # Portfolio
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C5603AQEhfbdTU8m1QA/profile-displayphoto-shrink_800_800/0/1574625508237?e=1727308800&v=beta&t=dpnAWIhr4YH6DYS2eZGu4DpfVUSEjZ1EgUWhPrf48AY" alt="Matt Diamond Profile Picture">
+![profile picture](https://github.com/user-attachments/assets/b91ffe8c-3222-4359-b29e-e0d97c7890f4)
 </p>
 
 Hi, I'm Matt Diamond.
