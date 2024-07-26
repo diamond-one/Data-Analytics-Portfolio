@@ -1,10 +1,12 @@
 # Portfolio
 
-![Profile Picture](https://media.licdn.com/dms/image/C5603AQEhfbdTU8m1QA/profile-displayphoto-shrink_800_800/0/1574625508237?e=1727308800&v=beta&t=dpnAWIhr4YH6DYS2eZGu4DpfVUSEjZ1EgUWhPrf48AY)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C5603AQEhfbdTU8m1QA/profile-displayphoto-shrink_800_800/0/1574625508237?e=1727308800&v=beta&t=dpnAWIhr4YH6DYS2eZGu4DpfVUSEjZ1EgUWhPrf48AY" alt="Matt Diamond Profile Picture">
+</p>
 
 Hi, I'm Matt Diamond.
 
-I'm a skateboarder, gamer, and electronic musician, with a deep curiosity for understanding how things work at a fundamental level. Whether it's crafting synths from scratch, studying the psychology and methods behind effective teams and leadership, analyzing data to solve complex problems, or testing and integrating efficient project pipelines, I immerse myself in the details. 
+I'm a skateboarder, gamer, and electronic musician with a deep curiosity for understanding how things work at a fundamental level. Whether it's crafting synths from scratch, studying the psychology and methods behind effective teams and leadership, analyzing data to solve complex problems, or testing and integrating efficient project pipelines, I immerse myself in the details. 
 
 My professional journey primarily revolves around descriptive analytics and creating project management data pipelines, particularly in the gaming and TV production industries. However, I'm always striving to deepen my understanding of larger datasets and contribute to making complex data more accessible and actionable.
 
@@ -14,7 +16,8 @@ My professional journey primarily revolves around descriptive analytics and crea
 
 ### Skills and Technologies
 
-I'm proficient in Python, Numpy, Matplotlib, Pandas, Excel, Power BI, Cognos, Looker Studio, Ftrack, Jira, Shotgrid, Git, and Maya. These tools and technologies enable me to craft robust data solutions, streamline workflows, and deliver insightful analytics.
+I work with Python, Numpy, Matplotlib, Pandas, Excel, SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git. These tools and technologies enable me to craft robust data solutions, streamline workflows, and deliver insightful analytics. However, I'm always eager to expand my skill set and explore new software and technologies, and I get great pleasure from staying adaptable and committed to continuous learning.
+
 
 ---
 
@@ -55,12 +58,12 @@ I'm proficient in Python, Numpy, Matplotlib, Pandas, Excel, Power BI, Cognos, Lo
 
 **Key Insights**: 
 - Evaluated whether blocking or spline techniques were faster, helping us streamline the animation process.
-- Analyzed velocity comparisons between studios in Israel, Canada, and the Czech Republic.
-- Investigated the correlation between internal and client notes and their impact on schedule efficiency, revealing that fewer internal notes could potentially lead to quicker client approval.
+- Analyzed velocity comparisons between Israel, Canada, and the Czech Republic studios.
+- Investigated the correlation between internal and client notes and their impact on schedule efficiency, revealing that fewer internal notes could lead to quicker client approval.
 
 ### [Jira Analytics and Dashboards for Producers](https://github.com/your-github-username/jira-analytics)
 
-**Problem Statement**: The data collected was insufficient for Jira to parse velocity effectively. We explored alternative data points to establish a reliable team velocity metric and addressed the issue of milestone bloat as projects progressed.
+**Problem Statement**: The data collected needed to be more sufficient for Jira to parse velocity effectively. We explored alternative data points to establish a reliable team velocity metric and addressed the issue of milestone bloat as projects progressed.
 
 **Key Insights**:
 - Developed a methodology for calculating team velocity using alternative data points.
