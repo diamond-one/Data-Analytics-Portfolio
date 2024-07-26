@@ -23,8 +23,6 @@ I work with Python, Numpy, Matplotlib, Pandas, Excel, SQL, JQL, Power BI, Cognos
 
 # Professional Experience
 
-# Professional Experience
-
 ### Senior Producer at CI Games, Europe (Remote)
 **August 2022 - Present**
 
