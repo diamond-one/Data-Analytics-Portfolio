@@ -24,7 +24,7 @@ I work with Python, Numpy, Matplotlib, Pandas, Excel, SQL, JQL, Power BI, Cognos
 # Professional Experience
 
 ### Senior Producer at CI Games, Europe (Remote)
-**August 2022 - Present**
+**August 2022 - 2024**
 
 - Developed Jupyter Notebook visualizations to enhance Jira functionality, providing advanced data insights and project-tracking capabilities.
 - Led Hybrid Agile workflow integration, enhancing cross-functional team efficiency.
