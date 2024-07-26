@@ -1,14 +1,18 @@
 # Portfolio
 
-<p align="center">
-![profile picture](https://github.com/user-attachments/assets/b91ffe8c-3222-4359-b29e-e0d97c7890f4)
+<p>
+  <a href="https://freeimage.host/i/dzMJlSa">
+    <img src="https://iili.io/dzMJlSa.md.png" alt="dzMJlSa.md.png" border="0" style="width:30%;">
+  </a>
 </p>
 
 Hi, I'm Matt Diamond.
 
-I'm a skateboarder, gamer, and electronic musician with a deep curiosity for understanding how things work at a fundamental level. Whether it's crafting synths from scratch, studying the psychology and methods behind effective teams and leadership, analyzing data to solve complex problems, or testing and integrating efficient project pipelines, I immerse myself in the details. 
+I'm a skateboarder, casual gamer, and electronic musician with a deep curiosity for understanding how things work at a fundamental level. Whether I'm designing synths from scratch, studying the psychology and methods of effective teams and leadership, analyzing data to solve complex problems, or testing and integrating efficient project pipelines, I immerse myself in the details.
 
-My professional journey primarily revolves around descriptive analytics and creating project management data pipelines, particularly in the gaming and TV production industries. However, I'm always striving to deepen my understanding of larger datasets and contribute to making complex data more accessible and actionable.
+Moreover, I enjoy uncovering stories hidden within data and helping to forecast the future direction businesses should take.
+
+My professional journey primarily revolves around descriptive analytics, forecasting, and creating project management data pipelines, particularly in the gaming and TV production industries. However, I'm always striving to deepen my understanding of larger datasets and diverse problems, contributing to making complex data more accessible and actionable.
 
 ---
 
@@ -16,15 +20,17 @@ My professional journey primarily revolves around descriptive analytics and crea
 
 ### Skills and Technologies
 
-I work with Python, Numpy, Matplotlib, Pandas, Excel, SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git. These tools and technologies enable me to craft robust data solutions, streamline workflows, and deliver insightful analytics. However, I'm always eager to expand my skill set and explore new software and technologies, and I get great pleasure from staying adaptable and committed to continuous learning.
+When working with data, I utilize tools and technologies such as Excel, Python, Numpy, Matplotlib, Pandas, SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git. These enable me to craft robust data solutions, streamline workflows, and deliver insightful analytics.
+
+However, I'm quick to pick up new things and always eager to expand my skill set and explore new software and technologies. I find great pleasure in staying adaptable and am committed to continuous learning.
 
 
 ---
 
 # Professional Experience
 
-### Senior Producer at CI Games, Europe (Remote)
-**August 2022 - 2024**
+### Senior Producer at CI Games
+**Europe (Remote) - August 2022 - 2024** 
 
 - Developed Jupyter Notebook visualizations to enhance Jira functionality, providing advanced data insights and project-tracking capabilities.
 - Led Hybrid Agile workflow integration, enhancing cross-functional team efficiency.
@@ -33,7 +39,7 @@ I work with Python, Numpy, Matplotlib, Pandas, Excel, SQL, JQL, Power BI, Cognos
 - Developed and introduced a Slackbot for asynchronous stand-ups, automating scheduling and improving remote team communication.
 
 ### Operations Producer at Snowball Animation and Visual Effects Studios
-**Israel - Czech Republic - Toronto (Hybrid), 2019 - 2022**
+**Israel (Hybrid) - Czech Republic (Hybrid) - Toronto (Remote), 2019 - 2022**
 
 - Defined KPIs for a struggling project, successfully guiding it to budget balance.
 - Transformed studio operations with live visual dashboards for all departments in multiple countries, enhancing project transparency and decision-making.
@@ -49,6 +55,11 @@ I work with Python, Numpy, Matplotlib, Pandas, Excel, SQL, JQL, Power BI, Cognos
 ---
 
 # My Past Projects
+
+## Animated TV Series: Enhancing Production Efficiency through Data Analysis
+
+Leverageing data from our issue tracking system to identify bottlenecks and inefficiencies in our production pipeline. 
+This analysis aimed to reduce delays, optimize workflows, and improve overall project delivery timelines.
 
 ### [Muppet Babies Animation Production Dashboards](https://github.com/your-github-username/muppet-babies-dashboard)
 
@@ -94,3 +105,7 @@ Feel free to connect with me on LinkedIn to discuss potential collaborations, sh
 ### Personal Interests
 
 Outside of work, I've recently embarked on the incredible journey of fatherhood. Helping my daughter grow, learn, and experience the world has been one of the most fulfilling projects I've been a part of, even if she does most of the work! It's a joy to guide and support her as she discovers new things.
+
+<p align="center">
+  <img src="https://iili.io/dzM3wKP.md.jpg" alt="dzM3wKP.md.jpg" style="width:40%;">
+</p>
