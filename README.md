@@ -1,10 +1,34 @@
 # Portfolio
 
-![Profile Picture](https://iili.io/dzMJlSa.md.png)
+<p>
+  <a href="https://freeimage.host/i/dzMJlSa">
+    <img src="https://iili.io/dzMJlSa.md.png" alt="dzMJlSa.md.png" border="0" style="width:30%;">
+  </a>
+</p>
 
 Hi, I'm Matt Diamond.
 
 As a seasoned data analyst with a background in the gaming and TV production industries, I specialize in descriptive analytics, forecasting, and optimizing project management data pipelines. My passion lies in uncovering stories hidden within data and helping businesses forecast future trends. I combine technical expertise with creative problem-solving to deliver actionable insights.
+
+# Table of Contents
+1. [Contact Information](#contact-information)
+2. [Skills and Technologies](#skills-and-technologies)
+3. [My Past Data Projects](#my-past-data-projects)
+   - [Muppet Babies Production Pipeline Optimization](#muppet-babies-production-pipeline-optimization)
+   - [Animation-Studio-Velocity-Analysis](#animation-studio-velocity-analysis)
+   - [Episode Complexity and Output Efficiency Analysis](#episode-complexity-and-output-efficiency-analysis)
+   - [Animation Schedule Forecasting](#animation-schedule-forecasting)
+   - [Extended Jira Analytics](#extended-jira-analytics)
+4. [Non Data Projects](#non-data-projects)
+   - [Ableton Controller](#ableton-controller)
+   - [Hanimex E300 Super 8 Viewer Retrofit](#hanimex-e300-super-8-viewer-retrofit)
+   - [Czech Quest: Master 1000 Words](#czech-quest-master-1000-words)
+5. [Professional Experience](#professional-experience)
+   - [Senior Producer at CI Games](#senior-producer-at-ci-games)
+   - [Operations Producer at Snowball Animation and Visual Effects Studios](#operations-producer-at-snowball-animation-and-visual-effects-studios)
+   - [Additional Experience](#additional-experience)
+6. [Education](#education)
+7. [Personal Interests](#personal-interests)
 
 # Contact Information
 
@@ -16,11 +40,11 @@ Feel free to connect for collaborations or discussions on data analytics.
 
 ---
 
-# Get to Know Me 
+# Skills and Technologies
 
-### Skills and Technologies
+Proficient in Excel, Python (Numpy, Pandas, Matplotlib), SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git.
 
-Proficient in Excel, Python (Numpy, Pandas, Matplotlib), SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git. Constantly expanding my skill set to include new tools and technologies.
+Constantly expanding my skill set to include new tools and technologies.
 
 ---
 
@@ -29,14 +53,32 @@ Proficient in Excel, Python (Numpy, Pandas, Matplotlib), SQL, JQL, Power BI, Cog
 ## [Muppet Babies Production Pipeline Optimization](https://github.com/diamond-one/MuppetBabies-Pipeline-Optimization)
 Optimized production workflows by analyzing issue tracking data to identify bottlenecks, reducing delays, and improving project timelines.
 
+---
+
 ## [Animation-Studio-Velocity-Analysis](https://github.com/diamond-one/Animation-Studio-Velocity-Analysis)
 Analyzed output disparities across multiple studios, providing insights to standardize efficiency and enhance productivity.
+
+---
 
 ## [Episode Complexity and Output Efficiency Analysis](https://github.com/diamond-one/Episode-Complexity-and-Output-Efficiency-Analysis)
 Assessed the impact of episode complexity on production timelines, identifying optimization opportunities for resource allocation.
 
+---
+
+## [Forecasting Delays in Animation Production](https://github.com/diamond-one/Forecasting-Delays-in-Animation-Production)
+Analyze and forecast delays in the animation production process across three studios—StudioA, StudioB, and StudioC. The primary goal is to identify inefficiencies, provide actionable insights, and standardize production processes to enhance efficiency.
+
+---
+
+## [Impact-of-Revisions-and-Feedback-Loops-on-Animation-Production](https://github.com/diamond-one/Impact-of-Revisions-and-Feedback-Loops-on-Animation-Production)
+
+---
+
+
 ## Animation Schedule Forecasting 
 To be added
+
+---
 
 ## Extended Jira Analytics 
 To be added
