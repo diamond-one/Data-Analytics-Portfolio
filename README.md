@@ -29,7 +29,7 @@ However, I'm quick to pick up new things and always eager to expand my skill set
 
 # Professional Experience
 
-### Senior Producer at CI Games
+## Senior Producer at CI Games
 **Europe (Remote) - August 2022 - 2024** 
 
 - Developed Jupyter Notebook visualizations to enhance Jira functionality, providing advanced data insights and project-tracking capabilities.
@@ -38,7 +38,7 @@ However, I'm quick to pick up new things and always eager to expand my skill set
 - Streamlined production pipeline for precise preproduction scope review.
 - Developed and introduced a Slackbot for asynchronous stand-ups, automating scheduling and improving remote team communication.
 
-### Operations Producer at Snowball Animation and Visual Effects Studios
+## Operations Producer at Snowball Animation and Visual Effects Studios
 **Israel (Hybrid) - Czech Republic (Hybrid) - Toronto (Remote), 2019 - 2022**
 
 - Defined KPIs for a struggling project, successfully guiding it to budget balance.
@@ -46,7 +46,7 @@ However, I'm quick to pick up new things and always eager to expand my skill set
 - Developed a cross-studio issue tracking and analysis system, speeding up turnaround time by 75%.
 - Established quota data collection of artist outputs, resulting in more accurate forecasts.
 
-### Additional Experience
+## Additional Experience
 - **Animation Producer / Animation Director at ASB – Animatic & Cinematic Studio, Bangkok Thailand (2013-2016)**
 - **Artist Management at City Mural, International (2012-2016)**
 - **Head of South Pacific Artist Management at This Way Up Artist Agency, New Zealand (2009-2011)**
@@ -54,35 +54,67 @@ However, I'm quick to pick up new things and always eager to expand my skill set
 
 ---
 
-# My Past Projects
+# My Past Data Projects
 
-## Animated TV Series: Enhancing Production Efficiency through Data Analysis
+## [Muppet Babies Production Pipeline Optimization](https://github.com/diamond-one/MuppetBabies-Pipeline-Optimization)
 
-Leverageing data from our issue tracking system to identify bottlenecks and inefficiencies in our production pipeline. 
+Leveraging data from our issue tracking system to identify bottlenecks and inefficiencies in our production pipeline. 
 This analysis aimed to reduce delays, optimize workflows, and improve overall project delivery timelines.
 
-### [Muppet Babies Animation Production Dashboards](https://github.com/your-github-username/muppet-babies-dashboard)
+![352680365-7d7ef5d5-0f6c-4130-bd79-1bbce30cb946](https://github.com/user-attachments/assets/f71d15fb-3308-4049-935c-bf13300bb9a0)
 
-**Problem Statement**: We aimed to optimize our animation processes by comparing different animation techniques and assessing the impact of notes from directors and clients on our production schedule.
+## [Animation-Studio-Velocity-Analysis](https://github.com/diamond-one/Animation-Studio-Velocity-Analysis)
 
-**Key Insights**: 
-- Evaluated whether blocking or spline techniques were faster, helping us streamline the animation process.
-- Analyzed velocity comparisons between Israel, Canada, and the Czech Republic studios.
-- Investigated the correlation between internal and client notes and their impact on schedule efficiency, revealing that fewer internal notes could lead to quicker client approval.
+This project analyzes the animation output of three studios—StudioA, StudioB, and StudioC—working on the MBA project. The focus is on identifying disparities in output across different phases (Blocking and Spline) and providing actionable insights to optimize efficiency and standardize output across studios..
 
-### [Jira Analytics and Dashboards for Producers](https://github.com/your-github-username/jira-analytics)
+![image](https://github.com/user-attachments/assets/ce190cd5-6935-4686-af8f-36a60048f8cf)
 
-**Problem Statement**: The data collected needed to be more sufficient for Jira to parse velocity effectively. We explored alternative data points to establish a reliable team velocity metric and addressed the issue of milestone bloat as projects progressed.
+## [Episode Complexity and Output Efficiency Analysis](https://github.com/diamond-one/Episode-Complexity-and-Output-Efficiency-Analysis)
 
-**Key Insights**:
-- Developed a methodology for calculating team velocity using alternative data points.
-- Identified the causes of milestone bloat and proposed strategies for better task planning and management.
+In this project, I analyzed the complexity and efficiency of the animation production pipeline for episodes of the animated series. The goal was to understand how the complexity of each episode affected production times in the Blocking and Spline phases, and to identify opportunities for optimizing workflows and resource allocation.
+
+![Spline complexity ](https://github.com/user-attachments/assets/ff9f219b-e6f4-4209-89b3-47b9ba3466a8)
+
+## Animation Schedule Forecasting 
+To be added
+
+## Extended Jira Analyitics 
+To be added
 
 ---
 
 # Mini-Projects
 
-- **Ableton Controller**: Developed dedicated MIDI controllers seamlessly mapped to Ableton Live devices, providing users with consistent hardware control. [GitHub Link](https://github.com/your-github-username/ableton-controller)
+<p>
+  <a href="https://github.com/diamond-one/Ableton_Control"><strong>Ableton Controller</strong></a>
+  <br>
+  Developed dedicated MIDI controllers seamlessly mapped to Ableton Live devices, providing users with consistent hardware control.
+  <br>
+  <a href="https://github.com/diamond-one/Ableton_Control">
+    <img src="https://github.com/user-attachments/assets/f96d682c-4763-4739-a478-f2e3f47a79cb" alt="Ableton Controller" border="0" style="width:30%;">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/diamond-one/Hanimex-E300-Retro-Computer-"><strong>Hanimex E300 Super 8 Viewer Retrofit</strong></a>
+  <br>
+  Developed a retrofit for the Hanimex E300, transforming it into a modern retro-computer.
+  <br>
+  <a href="https://github.com/diamond-one/Hanimex-E300-Retro-Computer-">
+    <img src="https://github.com/user-attachments/assets/09508582-32b2-48f3-91ab-a6fe3c112446" alt="Hanimex E300 Super 8 Viewer Retrofit" border="0" style="width:30%;">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/diamond-one/Czech_Quest"><strong>Czech Quest: Master 1000 Words</strong></a>
+  <br>
+  Czech Quest is a terminal-based language learning application designed to help users master 1000 common Czech words through the Leitner system and focused repetition.
+  <br>
+  <a href="https://github.com/diamond-one/Hanimex-E300-Retro-Computer-">
+    <img src="https://github.com/user-attachments/assets/e01d30c5-f8ef-49ba-84a1-5bbe400d61e8" alt="Hanimex E300 Super 8 Viewer Retrofit" border="0" style="width:30%;">
+  </a>
+</p>
+
 
 ---
 
