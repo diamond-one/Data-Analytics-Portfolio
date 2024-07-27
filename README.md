@@ -58,7 +58,7 @@ Optimized production workflows by analyzing issue tracking data to identify bott
 
 ---
 
-## [Animation-Studio-Velocity-Analysis](https://github.com/diamond-one/Animation-Studio-Velocity-Analysis)
+## [Animation Studio Velocity Analysis](https://github.com/diamond-one/Animation-Studio-Velocity-Analysis)
 Analyzed output disparities across multiple studios, providing insights to standardize efficiency and enhance productivity.
 
 ---
@@ -117,9 +117,10 @@ A terminal-based language learning app using the Leitner system for vocabulary m
 ## Operations Producer at Snowball Animation and Visual Effects Studios
 **Israel (Hybrid) - Czech Republic (Hybrid) - Toronto (Remote), 2019 - 2022**
 
-- Established KPIs for projects, achieving budget balance.
-- Introduced live visual dashboards for enhanced transparency.
-- Developed an issue tracking system, reducing turnaround time by 75%.
+- Defined KPIs for a struggling project, successfully guiding it to budget balance.
+- Transformed studio operations with live visual dashboards for all departments in multiple countries, enhancing project transparency and decision-making.
+- Developed a cross-studio issue tracking and analysis system, speeding up turnaround time by 75%.
+- Established quota data collection of artist outputs, resulting in more accurate forecasts.
 
 ## Additional Experience
 - **Animation Producer / Animation Director at ASB – Animatic & Cinematic Studio, Bangkok Thailand (2013-2016)**
