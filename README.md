@@ -14,12 +14,15 @@ As a seasoned data analyst with a background in the gaming and TV production ind
 1. [Contact Information](#contact-information)
 2. [Skills and Technologies](#skills-and-technologies)
 3. [My Past Data Projects](#my-past-data-projects)
-   - [Muppet Babies Production Pipeline Optimization](#muppet-babies-production-pipeline-optimization)
-   - [Animation-Studio-Velocity-Analysis](#animation-studio-velocity-analysis)
+   - [CG TV Series Production Pipeline Optimization](#cg-tv-series-production-pipeline-optimization)
+   - [Animation Studio Velocity Analysis](#animation-studio-velocity-analysis)
    - [Episode Complexity and Output Efficiency Analysis](#episode-complexity-and-output-efficiency-analysis)
+   - [Forecasting Delays in Animation Production](#forecasting-delays-in-animation-production)
+   - [Impact of Revisions and Feedback Loops on Animation Production](#impact-of-revisions-and-feedback-loops-on-animation-production)
    - [Animation Schedule Forecasting](#animation-schedule-forecasting)
    - [Extended Jira Analytics](#extended-jira-analytics)
 4. [Non Data Projects](#non-data-projects)
+   - [ASynchronous Slack-bot](#asynchronous-slack-bot)
    - [Ableton Controller](#ableton-controller)
    - [Hanimex E300 Super 8 Viewer Retrofit](#hanimex-e300-super-8-viewer-retrofit)
    - [Czech Quest: Master 1000 Words](#czech-quest-master-1000-words)
@@ -42,7 +45,7 @@ Feel free to connect for collaborations or discussions on data analytics.
 
 # Skills and Technologies
 
-Proficient in Excel, Python (Numpy, Pandas, Matplotlib), SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git.
+I am proficient in Excel, Python (Numpy, Pandas, Matplotlib), SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git.
 
 Constantly expanding my skill set to include new tools and technologies.
 
@@ -50,7 +53,7 @@ Constantly expanding my skill set to include new tools and technologies.
 
 # My Past Data Projects
 
-## [Muppet Babies Production Pipeline Optimization](https://github.com/diamond-one/MuppetBabies-Pipeline-Optimization)
+## [CG TV Series Production Pipeline Optimization](https://github.com/diamond-one/CG-TV-Series-Pipeline-Optimisation/tree/main)
 Optimized production workflows by analyzing issue tracking data to identify bottlenecks, reducing delays, and improving project timelines.
 
 ---
@@ -86,6 +89,9 @@ To be added
 ---
 
 # Non Data Projects
+
+### [ASynchronous Slack-bot](https://github.com/diamond-one/Async-Slackbot)
+A Slack bot created to run every other day, enabling development teams to update each other with their progress without needing a Standup
 
 ### [Ableton Controller](https://github.com/diamond-one/Ableton_Control)
 Developed MIDI controllers for seamless hardware integration with Ableton Live.
