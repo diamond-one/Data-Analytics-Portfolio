@@ -14,6 +14,17 @@ Moreover, I enjoy uncovering stories hidden within data and helping to forecast 
 
 My professional journey primarily revolves around descriptive analytics, forecasting, and creating project management data pipelines, particularly in the gaming and TV production industries. However, I'm always striving to deepen my understanding of larger datasets and diverse problems, contributing to making complex data more accessible and actionable.
 
+# Contact Information
+
+**Location**: Prague, Czech Republic  
+**Email**: thisismattdiamond (at) gmail.com  
+**LinkedIn**: [Matt Diamond on LinkedIn](https://www.linkedin.com/in/thisismattdiamond/)  
+
+
+Feel free to connect with me on LinkedIn to discuss potential collaborations, share insights, or just say hello!
+
+---
+
 ---
 
 # Get to Know Me 
@@ -27,30 +38,6 @@ However, I'm quick to pick up new things and always eager to expand my skill set
 
 ---
 
-# Professional Experience
-
-## Senior Producer at CI Games
-**Europe (Remote) - August 2022 - 2024** 
-
-- Developed Jupyter Notebook visualizations to enhance Jira functionality, providing advanced data insights and project-tracking capabilities.
-- Led Hybrid Agile workflow integration, enhancing cross-functional team efficiency.
-- Developed a Jira ingestion system, aiding producers by reducing ingestion times by 70%.
-- Streamlined production pipeline for precise preproduction scope review.
-- Developed and introduced a Slackbot for asynchronous stand-ups, automating scheduling and improving remote team communication.
-
-## Operations Producer at Snowball Animation and Visual Effects Studios
-**Israel (Hybrid) - Czech Republic (Hybrid) - Toronto (Remote), 2019 - 2022**
-
-- Defined KPIs for a struggling project, successfully guiding it to budget balance.
-- Transformed studio operations with live visual dashboards for all departments in multiple countries, enhancing project transparency and decision-making.
-- Developed a cross-studio issue tracking and analysis system, speeding up turnaround time by 75%.
-- Established quota data collection of artist outputs, resulting in more accurate forecasts.
-
-## Additional Experience
-- **Animation Producer / Animation Director at ASB – Animatic & Cinematic Studio, Bangkok Thailand (2013-2016)**
-- **Artist Management at City Mural, International (2012-2016)**
-- **Head of South Pacific Artist Management at This Way Up Artist Agency, New Zealand (2009-2011)**
-- **Character Animator at TWTV, New Zealand (2010-2011)**
 
 ---
 
@@ -115,21 +102,36 @@ To be added
   </a>
 </p>
 
+---
+
+# Professional Experience
+
+## Senior Producer at CI Games
+**Europe (Remote) - August 2022 - 2024** 
+
+- Developed Jupyter Notebook visualizations to enhance Jira functionality, providing advanced data insights and project-tracking capabilities.
+- Led Hybrid Agile workflow integration, enhancing cross-functional team efficiency.
+- Developed a Jira ingestion system, aiding producers by reducing ingestion times by 70%.
+- Streamlined production pipeline for precise preproduction scope review.
+- Developed and introduced a Slackbot for asynchronous stand-ups, automating scheduling and improving remote team communication.
+
+## Operations Producer at Snowball Animation and Visual Effects Studios
+**Israel (Hybrid) - Czech Republic (Hybrid) - Toronto (Remote), 2019 - 2022**
+
+- Defined KPIs for a struggling project, successfully guiding it to budget balance.
+- Transformed studio operations with live visual dashboards for all departments in multiple countries, enhancing project transparency and decision-making.
+- Developed a cross-studio issue tracking and analysis system, speeding up turnaround time by 75%.
+- Established quota data collection of artist outputs, resulting in more accurate forecasts.
+
+## Additional Experience
+- **Animation Producer / Animation Director at ASB – Animatic & Cinematic Studio, Bangkok Thailand (2013-2016)**
+- **Artist Management at City Mural, International (2012-2016)**
+- **Head of South Pacific Artist Management at This Way Up Artist Agency, New Zealand (2009-2011)**
+- **Character Animator at TWTV, New Zealand (2010-2011)**
 
 ---
 
-# Contact Information
-
-**Location**: Prague, Czech Republic  
-**Email**: thisismattdiamond (at) gmail.com  
-**LinkedIn**: [Matt Diamond on LinkedIn](https://www.linkedin.com/in/thisismattdiamond/)  
-
-
-Feel free to connect with me on LinkedIn to discuss potential collaborations, share insights, or just say hello!
-
----
-
-### Certifications and Courses
+### Education 
 
 - **MBA in Leadership, Innovation, and Consulting**: My thesis focused on "Agile Methodologies in Video Game Development: An Examination of the Perceptions of Game Developers, Producers, and Artists at CI Games."
 - **IBM Data Analyst Professional Certificate**: Certified skills in data analysis, including advanced Excel, Python, and visualization tools.
