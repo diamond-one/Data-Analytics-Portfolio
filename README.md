@@ -70,7 +70,7 @@ Analyze and forecast delays in the animation production process across three stu
 
 ---
 
-## [Impact-of-Revisions-and-Feedback-Loops-on-Animation-Production](https://github.com/diamond-one/Impact-of-Revisions-and-Feedback-Loops-on-Animation-Production)
+## [Impact of Revisions and Feedback Loops on Animation Production](https://github.com/diamond-one/Impact-of-Revisions-and-Feedback-Loops-on-Animation-Production)
 
 ---
 
