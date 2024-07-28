@@ -17,7 +17,7 @@ As a seasoned data analyst with a background in the gaming and TV production ind
    - [CG TV Series Production Pipeline Optimization](#cg-tv-series-production-pipeline-optimization)
    - [Animation Studio Velocity Analysis](#animation-studio-velocity-analysis)
    - [Episode Complexity and Output Efficiency Analysis](#episode-complexity-and-output-efficiency-analysis)
-   - [Forecasting Delays in Animation Production](#forecasting-delays-in-animation-production)
+   - [Analysis and Mitigation of Delays in Animation Production](#analysis-and-mitigation-of-delays-in-animation-production)
    - [Optimizing Efficiency in Animation Production](#optimizing-efficiency-in-animation-production)
    - [Impact of Revisions and Feedback Loops on Animation Production](#impact-of-revisions-and-feedback-loops-on-animation-production)
 4. [Non Data Projects](#non-data-projects)
@@ -31,7 +31,6 @@ As a seasoned data analyst with a background in the gaming and TV production ind
    - [Additional Experience](#additional-experience)
 6. [Education](#education)
 7. [Personal Interests](#personal-interests)
-
 # Contact Information
 
 **Location**: Prague, Czech Republic  
@@ -67,8 +66,8 @@ This project explored how episode complexity affects production efficiency in an
 
 ---
 
-## [Forecasting Delays in Animation Production](https://github.com/diamond-one/Forecasting-Delays-in-Animation-Production)
-This project explores forecasting and analyzing delays in the animation production process across three studios—StudioA, StudioB, and StudioC. The primary goal is to utilize data-driven insights to identify patterns, predict potential delays, and suggest strategies to enhance scheduling accuracy and overall production efficiency.
+## [Analysis and Mitigation of Delays in Animation Production](https://github.com/diamond-one/Analysis-and-Mitigation-of-Delays-in-Animation-Production)
+This project examines trends in animation production delays across three studios—StudioA, StudioB, and StudioC. By leveraging data-driven insights, the project aims to identify patterns and implement strategies, such as buffer times, to enhance scheduling accuracy and improve overall production efficiency.
 
 ---
 
