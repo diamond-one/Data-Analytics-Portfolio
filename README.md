@@ -26,9 +26,6 @@ As a seasoned data analyst with a background in the gaming and TV production ind
    - [Hanimex E300 Super 8 Viewer Retrofit](#hanimex-e300-super-8-viewer-retrofit)
    - [Czech Quest: Master 1000 Words](#czech-quest-master-1000-words)
 5. [Professional Experience](#professional-experience)
-   - [Senior Producer at CI Games](#senior-producer-at-ci-games)
-   - [Operations Producer at Snowball Animation and Visual Effects Studios](#operations-producer-at-snowball-animation-and-visual-effects-studios)
-   - [Additional Experience](#additional-experience)
 6. [Education](#education)
 7. [Personal Interests](#personal-interests)
 # Contact Information
@@ -99,28 +96,33 @@ A terminal-based language learning app using the Leitner system for vocabulary m
 
 # Professional Experience
 
-## Senior Producer at CI Games
-**Europe (Remote) - August 2022 - 2024** 
+## [LinkedIn](https://www.linkedin.com/in/thisismattdiamond/)
 
-- Enhanced Jira with Jupyter Notebook visualizations, boosting project-tracking capabilities.
-- Integrated Hybrid Agile workflows, improving team efficiency.
-- Developed a Jira ingestion system, cutting ingestion times by 70%.
-- Implemented a Slackbot for asynchronous stand-ups, streamlining communication.
+---
 
-## Operations Producer at Snowball Animation and Visual Effects Studios
-**Israel (Hybrid) - Czech Republic (Hybrid) - Toronto (Remote), 2019 - 2022**
+- **Senior Producer**: at CI Games
+  
+  *Europe (Remote) | August 2022 - 2024*
 
-- Defined KPIs for a struggling project, successfully guiding it to budget balance.
-- Transformed studio operations with live visual dashboards for all departments in multiple countries, enhancing project transparency and decision-making.
-- Developed a cross-studio issue tracking and analysis system, speeding up turnaround time by 75%.
-- Established quota data collection of artist outputs, resulting in more accurate forecasts.
+- **Director of Data Operations**: at Snowball Animation and Visual Effects Studios
+  
+  *Israel (Hybrid) - Czech Republic (Hybrid) - Toronto (Remote) | 2019 - 2022*
 
-## Additional Experience
-- **Animation Producer / Animation Director at ASB – Animatic & Cinematic Studio, Bangkok Thailand (2013-2016)**
-- **Artist Management at City Mural, International (2012-2016)**
-- **Head of South Pacific Artist Management at This Way Up Artist Agency, New Zealand (2009-2011)**
-- **Character Animator at TWTV, New Zealand (2010-2011)**
+- **Animation Producer / Animation Director**: at ASB – Animatic & Cinematic Studio
+  
+  *Bangkok, Thailand | 2013 - 2016*
 
+- **Artist Management**: at Cultural Canvas
+
+  *International | 2012 - 2016*
+
+- **Head of South Pacific Artist Management**: at This Way Up Artist Agency
+  
+  *New Zealand | 2009 - 2011*
+
+- **Character Animator**: at TWTV
+  
+  *New Zealand | 2010 - 2011*
 ---
 
 ### Education 
