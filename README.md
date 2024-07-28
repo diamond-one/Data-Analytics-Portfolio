@@ -1,4 +1,4 @@
-# Portfolio
+# Data Analytics Portfolio
 
 <p>
   <a href="https://freeimage.host/i/dzMJlSa">
@@ -18,9 +18,8 @@ As a seasoned data analyst with a background in the gaming and TV production ind
    - [Animation Studio Velocity Analysis](#animation-studio-velocity-analysis)
    - [Episode Complexity and Output Efficiency Analysis](#episode-complexity-and-output-efficiency-analysis)
    - [Forecasting Delays in Animation Production](#forecasting-delays-in-animation-production)
+   - [Optimizing Efficiency in Animation Production](#optimizing-efficiency-in-animation-production)
    - [Impact of Revisions and Feedback Loops on Animation Production](#impact-of-revisions-and-feedback-loops-on-animation-production)
-   - [Animation Schedule Forecasting](#animation-schedule-forecasting)
-   - [Extended Jira Analytics](#extended-jira-analytics)
 4. [Non Data Projects](#non-data-projects)
    - [ASynchronous Slack-bot](#asynchronous-slack-bot)
    - [Ableton Controller](#ableton-controller)
@@ -54,37 +53,32 @@ Constantly expanding my skill set to include new tools and technologies.
 # My Past Data Projects
 
 ## [CG TV Series Production Pipeline Optimization](https://github.com/diamond-one/CG-TV-Series-Pipeline-Optimisation/tree/main)
-Optimized production workflows by analyzing issue tracking data to identify bottlenecks, reducing delays, and improving project timelines.
+In this project, I optimized the production pipeline for the CG animated TV series "Muppet Babies" by analyzing data from the lighting and rendering departments. We identified critical bottlenecks in Shading and Rigging, implemented specialized review stages, and enhanced QA processes for early issue detection. 
 
 ---
 
 ## [Animation Studio Velocity Analysis](https://github.com/diamond-one/Animation-Studio-Velocity-Analysis)
-Analyzed output disparities across multiple studios, providing insights to standardize efficiency and enhance productivity.
+This project analyzed output disparities across animation studios, focusing on production speed and efficiency. By comparing different studios, we identified key factors influencing productivity and provided recommendations to standardize practices and improve overall performance.
 
 ---
 
 ## [Episode Complexity and Output Efficiency Analysis](https://github.com/diamond-one/Episode-Complexity-and-Output-Efficiency-Analysis)
-Assessed the impact of episode complexity on production timelines, identifying optimization opportunities for resource allocation.
+This project explored how episode complexity affects production efficiency in animation studios. I analyzed factors like scene count and special effects to determine their impact on timelines and resources.
 
 ---
 
 ## [Forecasting Delays in Animation Production](https://github.com/diamond-one/Forecasting-Delays-in-Animation-Production)
-Analyze and forecast delays in the animation production process across three studios—StudioA, StudioB, and StudioC. The primary goal is to identify inefficiencies, provide actionable insights, and standardize production processes to enhance efficiency.
+This project explores forecasting and analyzing delays in the animation production process across three studios—StudioA, StudioB, and StudioC. The primary goal is to utilize data-driven insights to identify patterns, predict potential delays, and suggest strategies to enhance scheduling accuracy and overall production efficiency.
+
+---
+
+## [Optimizing Efficiency in Animation Production](https://github.com/diamond-one/Optimizing-Efficiency-in-Animation-Production)
+Analyzes efficiency in the animation production process across StudioA, StudioB, and StudioC, focusing on identifying optimal team sizes, standardizing production processes, and improving overall efficiency across blocking and spline stages.
 
 ---
 
 ## [Impact of Revisions and Feedback Loops on Animation Production](https://github.com/diamond-one/Impact-of-Revisions-and-Feedback-Loops-on-Animation-Production)
-
----
-
-
-## Animation Schedule Forecasting 
-To be added
-
----
-
-## Extended Jira Analytics 
-To be added
+This project analyzed the impact of multiple revision rounds and feedback loops on animation production timelines and quality across various studios. By examining the frequency, timing, and reasons for revisions, we identified key patterns and best practices to streamline feedback processes, reduce unnecessary delays, and enhance overall production efficiency.
 
 ---
 
