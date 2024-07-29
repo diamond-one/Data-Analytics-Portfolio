@@ -28,6 +28,7 @@ As a seasoned data analyst with a background in the gaming and TV production ind
 5. [Professional Experience](#professional-experience)
 6. [Education](#education)
 7. [Personal Interests](#personal-interests)
+
 # Contact Information
 
 **Location**: Prague, Czech Republic  
@@ -49,32 +50,49 @@ Constantly expanding my skill set to include new tools and technologies.
 # My Past Data Projects
 
 ## [CG TV Series Production Pipeline Optimization](https://github.com/diamond-one/CG-TV-Series-Pipeline-Optimisation/tree/main)
-In this project, I optimized the production pipeline for the CG animated TV series "Muppet Babies" by analyzing data from the lighting and rendering departments. We identified critical bottlenecks in Shading and Rigging, implemented specialized review stages, and enhanced QA processes for early issue detection. 
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/cdef3e8e-6199-4b24-9f60-68458cf8e6cd" style="margin-right: 15px;">
+In this project, I optimized the production pipeline for the CG animated TV series "Muppet Babies" by analyzing data from the lighting and rendering departments. We identified critical bottlenecks in Shading and Rigging, implemented specialized review stages, and enhanced QA processes for early issue detection.
+
+<br clear="both" />
 
 ---
 
 ## [Animation Studio Velocity Analysis](https://github.com/diamond-one/Animation-Studio-Velocity-Analysis)
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/7eeea320-3cf2-4ae0-bff2-387e0fa3e5d4" style="margin-right: 15px;">
 This project analyzed output disparities across animation studios, focusing on production speed and efficiency. By comparing different studios, we identified key factors influencing productivity and provided recommendations to standardize practices and improve overall performance.
+
+<br clear="both" />
 
 ---
 
 ## [Episode Complexity and Output Efficiency Analysis](https://github.com/diamond-one/Episode-Complexity-and-Output-Efficiency-Analysis)
-This project explored how episode complexity affects production efficiency in animation studios. I analyzed factors like scene count and special effects to determine their impact on timelines and resources.
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f625115f-74b0-40e2-aedb-6fc4c6b26d9f" style="margin-right: 15px;">
+This project analyzed the correlation between episode complexity and production efficiency in animation studios. I developed a system to assess factors such as scene count and special effects, determining their impact on timelines and resources. Additionally, I created a tool to provide standardized, data-driven complexity scores for each episode, helping to predict and mitigate potential production delays
+<br clear="both" />
 
 ---
 
 ## [Analysis and Mitigation of Delays in Animation Production](https://github.com/diamond-one/Analysis-and-Mitigation-of-Delays-in-Animation-Production)
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/3ab07632-0078-40b9-ab9c-47671f9d82ac" style="margin-right: 15px;">
 This project examines trends in animation production delays across three studios—StudioA, StudioB, and StudioC. By leveraging data-driven insights, the project aims to identify patterns and implement strategies, such as buffer times, to enhance scheduling accuracy and improve overall production efficiency.
+
+<br clear="both" />
 
 ---
 
 ## [Optimizing Efficiency in Animation Production](https://github.com/diamond-one/Optimizing-Efficiency-in-Animation-Production)
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/8fcd8122-0d0b-40c9-9669-3f519108904d" style="margin-right: 15px;">
 Analyzes efficiency in the animation production process across StudioA, StudioB, and StudioC, focusing on identifying optimal team sizes, standardizing production processes, and improving overall efficiency across blocking and spline stages.
+
+<br clear="both" />
 
 ---
 
 ## [Impact of Revisions and Feedback Loops on Animation Production](https://github.com/diamond-one/Impact-of-Revisions-and-Feedback-Loops-on-Animation-Production)
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/0218d392-7377-4aac-864b-b1e4606dc651" style="margin-right: 15px;">
 This project analyzed the impact of multiple revision rounds and feedback loops on animation production timelines and quality across various studios. By examining the frequency, timing, and reasons for revisions, we identified key patterns and best practices to streamline feedback processes, reduce unnecessary delays, and enhance overall production efficiency.
+
+<br clear="both" />
 
 ---
 
@@ -132,6 +150,4 @@ A terminal-based language learning app using the Leitner system for vocabulary m
 
 ### Personal Interests
 
-Beyond work, I'm navigating the joys and challenges of fatherhood, finding great fulfillment in guiding my daughter as she explores the world.
-
-![Family Picture](https://iili.io/dzM3wKP.md.jpg)
+Beyond work, I'm navigating the joys and challenges of fatherhood, finding great fulfilment in guiding my daughter as she explores the world.
