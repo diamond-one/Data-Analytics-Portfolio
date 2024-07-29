@@ -151,3 +151,4 @@ A terminal-based language learning app using the Leitner system for vocabulary m
 ### Personal Interests
 
 Beyond work, I'm navigating the joys and challenges of fatherhood, finding great fulfilment in guiding my daughter as she explores the world.
+![Family Picture](https://iili.io/dzM3wKP.md.jpg)
