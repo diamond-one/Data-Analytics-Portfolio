@@ -41,7 +41,7 @@ Feel free to connect for collaborations or discussions on data analytics.
 
 # Skills and Technologies
 
-I am proficient in Excel, Python (Numpy, Pandas, Matplotlib), SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git.
+I am proficient in Excel, Python (Numpy, Pandas, Matplotlib, Selenium), SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git.
 
 Constantly expanding my skill set to include new tools and technologies.
 
