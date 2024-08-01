@@ -32,7 +32,6 @@ As an experienced data analyst with a background in the gaming and TV production
 # Contact Information
 
 **Location**: Prague, Czech Republic  
-**Email**: thisismattdiamond (at) gmail.com  
 **LinkedIn**: [Matt Diamond on LinkedIn](https://www.linkedin.com/in/thisismattdiamond/)
 
 Feel free to connect for collaborations or discussions on data analytics.
