@@ -95,6 +95,15 @@ This project analyzed the impact of multiple revision rounds and feedback loops 
 
 ---
 
+## [LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
+<img align="left" width="200" height="150" src="https://github.com/user-attachments/assets/815422e4-fd60-4397-a6f3-07c4169af515" style="margin-right: 15px;">
+This project aims to provide an in-depth overview of LinkedIn job postings within the European data industry. By developing a scraper, we will extract a snapshot of core data science roles. Our objectives are to analyze the demand for various levels of seniority in these roles, identify patterns in job postings, and gain a deeper understanding of LinkedIn's job offering algorithm.
+
+
+<br clear="both" />
+
+---
+
 # Non Data Projects
 
 ### [ASynchronous Slack-bot](https://github.com/diamond-one/Async-Slackbot)
