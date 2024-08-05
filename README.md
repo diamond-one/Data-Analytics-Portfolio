@@ -20,6 +20,7 @@ As an experienced data analyst with a background in the gaming and TV production
    - [Analysis and Mitigation of Delays in Animation Production](#analysis-and-mitigation-of-delays-in-animation-production)
    - [Optimizing Efficiency in Animation Production](#optimizing-efficiency-in-animation-production)
    - [Impact of Revisions and Feedback Loops on Animation Production](#impact-of-revisions-and-feedback-loops-on-animation-production)
+   - [LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
 4. [Non Data Projects](#non-data-projects)
    - [ASynchronous Slack-bot](#asynchronous-slack-bot)
    - [Ableton Controller](#ableton-controller)
