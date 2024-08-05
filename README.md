@@ -8,7 +8,7 @@
 
 Hi, I'm Matt Diamond.
 
-As an experienced data analyst with a background in the gaming and TV production industries, I specialize in descriptive analytics, forecasting, and optimizing project management data pipelines. My passion lies in uncovering stories hidden within data and helping businesses forecast future trends. I combine technical expertise with creative problem-solving to deliver actionable insights.
+As an experienced Project manager and Data analyst with a background in the gaming and TV production industries, I specialize in descriptive analytics, forecasting, and optimizing project management data pipelines. My passion lies in uncovering stories hidden within data and helping businesses forecast future trends. I combine technical expertise with creative problem-solving to deliver actionable insights.
 
 # Table of Contents
 1. [Contact Information](#contact-information)
