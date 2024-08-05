@@ -21,14 +21,15 @@ As an experienced Project manager and Data analyst with a background in the gami
    - [Optimizing Efficiency in Animation Production](#optimizing-efficiency-in-animation-production)
    - [Impact of Revisions and Feedback Loops on Animation Production](#impact-of-revisions-and-feedback-loops-on-animation-production)
    - [European LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
-4. [Non Data Projects](#non-data-projects)
+4. [Other Projects](#other-projects)
+   - [Linkedin Job Post Scraper](https://github.com/diamond-one/Linkedin_Scraper)
    - [ASynchronous Slack-bot](#asynchronous-slack-bot)
    - [Ableton Controller](#ableton-controller)
    - [Hanimex E300 Super 8 Viewer Retrofit](#hanimex-e300-super-8-viewer-retrofit)
    - [Czech Quest: Master 1000 Words](#czech-quest-master-1000-words)
-5. [Professional Experience](#professional-experience)
-6. [Education](#education)
-7. [Personal Interests](#personal-interests)
+6. [Professional Experience](#professional-experience)
+7. [Education](#education)
+8. [Personal Interests](#personal-interests)
 
 # Contact Information
 
@@ -105,7 +106,7 @@ This project aims to provide an in-depth overview of LinkedIn job postings withi
 
 ---
 
-# Other projects 
+# Other projects
 
 ### [Linkedin Job Posting Scraper](https://github.com/diamond-one/Linkedin_Scraper)
 A scraper created using Selenium, which pulls job postings by keyword and location search. 
