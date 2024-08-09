@@ -96,17 +96,13 @@ This project analyzed the impact of multiple revision rounds and feedback loops 
 <br clear="both" />
 
 ---
-
 ## [European LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
-<img align="left" width="200" height="150" src="https://github.com/user-attachments/assets/815422e4-fd60-4397-a6f3-07c4169af515" style="margin-right: 15px;">
--------------- In progress 07/08/24 --------------
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/391dd41a-11d1-4a79-9858-c40755bba78b" style="margin-right: 15px;">
 
-This project aims to provide an in-depth overview of LinkedIn job postings within the European data industry. By developing a scraper, a snapshot of core data science roles was extracted. The objectives are to analyze the demand for various levels of seniority in these roles, identify patterns in job postings, and gain a deeper understanding of the market and LinkedIn's job offering algorithm.
-
--------------- In progress 07/08/24 --------------
-
+A project where I scraped and analyzed job postings across Europe to uncover key trends in the data industry. This project dives into which skills are most sought after, which roles are in demand, and where the top opportunities are located, providing a clear snapshot of the data job market landscape. Perfect for understanding the current dynamics and making informed career decisions.
 
 <br clear="both" />
+
 
 ---
 
