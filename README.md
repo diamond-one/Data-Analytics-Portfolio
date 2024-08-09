@@ -53,7 +53,7 @@ Constantly expanding my skill set to include new tools and technologies.
 ## [European LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/391dd41a-11d1-4a79-9858-c40755bba78b" style="margin-right: 15px;">
 
-A project where I scraped and analyzed job postings across Europe to uncover key trends in the data industry. This project dives into which skills are most sought after, which roles are in demand, and where the top opportunities are located, providing a clear snapshot of the data job market landscape. Perfect for understanding the current dynamics and making informed career decisions.
+A project where I scraped and analyzed job postings across Europe to uncover key trends in the data industry. This project dives into which skills are most sought after, which roles are in demand, and where the top opportunities are located, providing a clear snapshot of the data job market landscape. Perfect for understanding the current dynamics and making informed hiring and career decisions.
 
 <br clear="both" />
 
