@@ -50,6 +50,15 @@ Constantly expanding my skill set to include new tools and technologies.
 
 # My Past Data Projects
 
+## [European LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/391dd41a-11d1-4a79-9858-c40755bba78b" style="margin-right: 15px;">
+
+A project where I scraped and analyzed job postings across Europe to uncover key trends in the data industry. This project dives into which skills are most sought after, which roles are in demand, and where the top opportunities are located, providing a clear snapshot of the data job market landscape. Perfect for understanding the current dynamics and making informed career decisions.
+
+<br clear="both" />
+
+---
+
 ## [CG TV Series Production Pipeline Optimization](https://github.com/diamond-one/CG-TV-Series-Pipeline-Optimisation/tree/main)
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/cdef3e8e-6199-4b24-9f60-68458cf8e6cd" style="margin-right: 15px;">
 In this project, I optimized the production pipeline for the CG animated TV series "Muppet Babies" by analyzing data from the lighting and rendering departments. We identified critical bottlenecks in Shading and Rigging, implemented specialized review stages, and enhanced QA processes for early issue detection.
@@ -95,13 +104,6 @@ This project analyzed the impact of multiple revision rounds and feedback loops 
 
 <br clear="both" />
 
----
-## [European LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/391dd41a-11d1-4a79-9858-c40755bba78b" style="margin-right: 15px;">
-
-A project where I scraped and analyzed job postings across Europe to uncover key trends in the data industry. This project dives into which skills are most sought after, which roles are in demand, and where the top opportunities are located, providing a clear snapshot of the data job market landscape. Perfect for understanding the current dynamics and making informed career decisions.
-
-<br clear="both" />
 
 
 ---
