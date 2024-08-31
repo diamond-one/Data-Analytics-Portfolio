@@ -14,7 +14,7 @@ As an experienced Project manager and Data analyst with a background in the gami
 1. [Contact Information](#contact-information)
 2. [Skills and Technologies](#skills-and-technologies)
 3. [My Past Data Projects](#my-past-data-projects)
-   - [Game Sentiment Explorer - End-to-End NLP Pipeline](https://github.com/diamond-one/game-sentiment-analysis)
+   - [Game Sentiment Explorer - Helldivers2 Player review sentiment analysis](https://github.com/diamond-one/Game-Review-Insights-Helldivers2)
    - [CG TV Series Production Pipeline Optimization](#cg-tv-series-production-pipeline-optimization)
    - [Animation Studio Velocity Analysis](#animation-studio-velocity-analysis)
    - [Episode Complexity and Output Efficiency Analysis](#episode-complexity-and-output-efficiency-analysis)
@@ -51,6 +51,14 @@ Constantly expanding my skill set to include new tools and technologies.
 
 # My Past Data Projects
 
+## [Game Sentiment Explorer - Helldivers2 Player review sentiment analysis](https://github.com/diamond-one/Game-Review-Insights-Helldivers2)
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/681db7cb-e8ea-437c-b75d-91420f0a146f" style="margin-right: 15px;">
+
+A project where I analyzed player reviews of Helldivers on Steam to uncover key sentiment trends, identify common themes, and provide actionable insights for game developers. This project offers a deep dive into player feedback, highlighting areas of satisfaction and concern, making it a valuable tool for improving player experience and guiding future game updates.
+
+<br clear="both" />
+
+---
 ## [European LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/391dd41a-11d1-4a79-9858-c40755bba78b" style="margin-right: 15px;">
 
