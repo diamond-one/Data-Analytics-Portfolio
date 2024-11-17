@@ -14,6 +14,7 @@ As an experienced Project manager and Creative Solutions Architect with a backgr
 1. [Contact Information](#contact-information)
 2. [Skills and Technologies](#skills-and-technologies)
 3. [My Past Data Projects](#my-past-data-projects)
+   - [Hybrid AI/Traditional Animation pipeline for kids content](https://github.com/diamond-one/hybrid-AI-animated-shorts-pipeline)
    - [Game Sentiment Explorer - Helldivers2 Player review sentiment analysis](https://github.com/diamond-one/Game-Review-Insights-Helldivers2)
    - [CG TV Series Production Pipeline Optimization](#cg-tv-series-production-pipeline-optimization)
    - [Animation Studio Velocity Analysis](#animation-studio-velocity-analysis)
@@ -49,7 +50,14 @@ Constantly expanding my skill set to include new tools and technologies.
 
 ---
 
-# My Past Data Projects
+# My Past Projects
+
+## [Hybrid AI/Traditional Animation pipeline for kids content](https://github.com/diamond-one/hybrid-AI-animated-shorts-pipeline)
+<img align="left" width="250" height="150" src="https://github.com/diamond-one/hybrid-AI-animated-shorts-pipeline/blob/main/docs/supporting_images/image-2.png" style="margin-right: 15px;">
+
+A project where I was commissioned to create a pipeline using both traditional and AI tools to create kids' content at a price that would give the studio using it a competitive advantage.
+
+<br clear="both" />
 
 ## [Game Sentiment Explorer - Helldivers2 Player review sentiment analysis](https://github.com/diamond-one/Game-Review-Insights-Helldivers2)
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/681db7cb-e8ea-437c-b75d-91420f0a146f" style="margin-right: 15px;">
