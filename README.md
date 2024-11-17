@@ -13,7 +13,7 @@ As an experienced Project manager and Creative Solutions Architect with a backgr
 # Table of Contents
 1. [Contact Information](#contact-information)
 2. [Skills and Technologies](#skills-and-technologies)
-3. [My Past Data Projects](#my-past-data-projects)
+3. [My Past Projects](#my-past-data-projects)
    - [Hybrid AI/Traditional Animation pipeline for kids content](https://github.com/diamond-one/hybrid-AI-animated-shorts-pipeline)
    - [Game Sentiment Explorer - Helldivers2 Player review sentiment analysis](https://github.com/diamond-one/Game-Review-Insights-Helldivers2)
    - [CG TV Series Production Pipeline Optimization](#cg-tv-series-production-pipeline-optimization)
@@ -149,6 +149,10 @@ A terminal-based language learning app using the Leitner system for vocabulary m
 ## [LinkedIn](https://www.linkedin.com/in/thisismattdiamond/)
 
 ---
+
+- **Creative Director and Solutions Architect**: at Snow Angel 
+  
+  *Canada (Remote) | August 2024 - 2025*
 
 - **Senior Producer**: at CI Games
   
